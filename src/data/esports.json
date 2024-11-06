@@ -1,0 +1,98 @@
+{
+  "lol": {
+    "teams": [
+      {
+        "name": "test lol team",
+        "member": [
+          "2421 이서현",
+          "2422 이서현",
+          "2423 이서현",
+          "2424 이서현",
+          "2425 이서현"
+        ]
+      },
+      {
+        "name": "test lol team 2",
+        "member": [
+          "2421 이서현e",
+          "2422 이서현e",
+          "2423 이서현e",
+          "2424 이서현e",
+          "2425 이서현e"
+        ]
+      }
+    ],
+    "match": [
+      {
+        "date": "2024년 11월 30일",
+        "time": "13시 30분",
+        "team1": "test lol team",
+        "team2": "test lol team 2"
+      }
+    ]
+  },
+  "overwatch": {
+    "teams": [
+      {
+        "name": "test ow team",
+        "member": [
+          "2421 이서현",
+          "2422 이서현",
+          "2423 이서현",
+          "2424 이서현",
+          "2425 이서현"
+        ]
+      },
+      {
+        "name": "test ow team 2",
+        "member": [
+          "2421 이서현e",
+          "2422 이서현e",
+          "2423 이서현e",
+          "2424 이서현e",
+          "2425 이서현e"
+        ]
+      }
+    ],
+    "match": [
+      {
+        "date": "2024년 11월 30일",
+        "time": "13시 30분",
+        "team1": "test ow team",
+        "team2": "test ow team 2"
+      }
+    ]
+  },
+  "brawlstars": {
+    "teams": [
+      {
+        "name": "test bs team",
+        "member": [
+          "2421 이서현",
+          "2422 이서현",
+          "2423 이서현",
+          "2424 이서현",
+          "2425 이서현"
+        ]
+      },
+      {
+        "name": "test bs team 2",
+        "member": [
+          "2421 이서현e",
+          "2422 이서현e",
+          "2423 이서현e",
+          "2424 이서현e",
+          "2425 이서현e"
+        ]
+      }
+    ],
+    "match": [
+      {
+        "date": "2024년 11월 30일",
+        "time": "13시 30분",
+        "team1": "test bs team",
+        "team2": "test bs team 2"
+      }
+    ]
+  }
+}
