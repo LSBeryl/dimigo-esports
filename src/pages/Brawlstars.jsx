@@ -45,10 +45,10 @@ export default function Brawlstars() {
             <div>
               <div>예선 규칙</div>
               <div>➀ 3판 2선승제</div>
+              <div>➁ 브롤 볼, 젬그랩, 하이스트 각 한 판씩 진행</div>
               <div>
-                ➁ 브롤 볼, 젬그랩, 녹아웃, 하이스트, 바운티 각 한 판씩 진행
+                ➂ 본선 진행 방식과 동일하게 진행하되, 일반 친선전으로 진행함.
               </div>
-              <div>➂ 맵과 모드 순서는 본선과 동일한 방식으로 결정</div>
             </div>
           </Rule>
         </RuleBox>
