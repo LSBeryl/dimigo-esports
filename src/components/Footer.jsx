@@ -5,7 +5,9 @@ import styled from "styled-components";
 export default function Footer() {
   return (
     <Wrapper justify="center" padding="1.5rem">
-      <div>&copy; 2024 dimigo council All rights reserved</div>
+      <div>
+        &copy; 2024. 한국디지털미디어고등학교 학생회. All rights reserved.
+      </div>
     </Wrapper>
   );
 }
