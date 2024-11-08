@@ -19,7 +19,7 @@ export default function Header() {
         }}
       >
         <img src={logo} />
-        <div>제2회 한국디지털미디어고등학교 e스포츠 대회</div>
+        <div></div>
       </Left>
       <Right gap="2rem">
         <Col
@@ -109,6 +109,14 @@ const Left = styled(Row)`
   & > div {
     font-weight: 600;
     user-select: none;
+    &::before {
+      content: "제2회 한국디지털미디어고등학교 e스포츠 대회";
+    }
+    @media (max-width: 768px) {
+      &::before {
+        content: "디미고 e스포츠 대회";
+      }
+    }
   }
 `;
 
