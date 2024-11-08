@@ -169,7 +169,7 @@ const MobMenu = styled(Col)`
     & > div {
       cursor: pointer;
       font-size: 1.3rem;
-      font-weight: 500;
+      font-weight: 700;
     }
   }
   @media (max-width: 768px) {
