@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 import { Col, Row } from "../components/atomic";
 import { Box, Schedule } from "../components";
 import esports from "../data/esports.json";
